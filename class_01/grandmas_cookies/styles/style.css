@@ -1,15 +1,17 @@
 body {
 	background-color: #FFE;
-	border-style; solid;
-	border-size; 10px;
+	border-style: solid;
+	border-width: 10px;
 	border-color: black;
 }
 
 img {
+	border-style: solid;
+	border-width: 5px;
 	border-image: black;
 }
 
-h2 {
+p1 {
 	color: #900;
 }
 
